@@ -1,2 +1,3 @@
+import time
 while 1:
-  pass
+  time.sleep(10)
