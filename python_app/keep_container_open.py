@@ -1,3 +1,3 @@
 import time
 while 1:
-  time.sleep(10)
+  time.sleep(12)
